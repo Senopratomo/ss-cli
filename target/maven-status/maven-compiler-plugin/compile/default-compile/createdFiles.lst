@@ -1,0 +1,6 @@
+org\senolab\sscli\model\SiteShield.class
+org\senolab\sscli\service\OpenAPICallService$1.class
+org\senolab\sscli\utils\Edgerc.class
+org\senolab\sscli\utils\Instructions.class
+org\senolab\sscli\service\OpenAPICallService.class
+org\senolab\sscli\App.class
